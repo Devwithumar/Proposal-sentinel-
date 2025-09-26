@@ -1,0 +1,47 @@
+{
+  "flags": [
+    {
+      "id": "eval_missing",
+      "title": "Missing evaluation metrics",
+      "severity": "high",
+      "excerpt": "Automated Irrigation Optimization for Smallholder Farms Smallholder farmers in the Sahel face water shortages.",
+      "explanation": "No clear evaluation, metrics, or baseline described. Define measurable success criteria (metric, baseline, timeframe).",
+      "suggestion": "Add explicit evaluation metrics: e.g., \"increase yield by 10% within 12 months measured by randomized field trials against baseline.\""
+    },
+    {
+      "id": "ethics_personal_data",
+      "title": "Potential personal / sensitive data collection",
+      "severity": "medium",
+      "excerpt": "We will survey farmers about practices and incomes.",
+      "explanation": "Possible issue: Potential personal / sensitive data collection. See excerpt.",
+      "suggestion": "If collecting personal data, add consent procedures, anonymization, and data storage/retention details."
+    },
+    {
+      "id": "budget_vague",
+      "title": "Vague budget phrases",
+      "severity": "medium",
+      "excerpt": "Budget includes hardware, travel, and miscellaneous costs.",
+      "explanation": "Possible issue: Vague budget phrases. See excerpt.",
+      "suggestion": "Replace vague phrases with line items: unit cost, quantity, justification for each cost."
+    },
+    {
+      "id": "impact_weak",
+      "title": "Impact statement too short or generic",
+      "severity": "low",
+      "excerpt": "The project will improve food security and reduce water use.",
+      "explanation": "Possible issue: Impact statement too short or generic. See excerpt.",
+      "suggestion": "Expand the impact statement with concrete beneficiaries and measurable outcomes."
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Clear societal impact",
+      "excerpt": "The project will improve food security and reduce water use.",
+      "note": "Impact sentence is specific and relevant."
+    }
+  ],
+  "meta": {
+    "word_count": 65,
+    "title_guess": "Automated Irrigation Optimization for Smallholder Farms"
+  }
+}

@@ -1,0 +1,8 @@
+Automated Irrigation Optimization for Smallholder Farms
+
+Smallholder farmers in the Sahel face water shortages. This project develops an automated irrigation
+system combining low-cost sensors and weather-driven scheduling. We will survey farmers about practices
+and incomes. The project will improve food security and reduce water use.
+
+We will deploy pilot systems in three villages and evaluate adoption. Budget includes hardware, travel,
+and miscellaneous costs.
